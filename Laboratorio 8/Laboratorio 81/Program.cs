@@ -1,8 +1,7 @@
 ﻿using System;
-
-class Program
+internal class Program
 {
-    public static void Main()
+    public static void Main(string[] args)
     {
         Trabajador p = new Trabajador("Josan", 22, "77588260-Z", 100000);
         Console.WriteLine("Nombre=" + p.Nombre);
