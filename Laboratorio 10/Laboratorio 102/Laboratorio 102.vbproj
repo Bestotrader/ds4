@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Area</RootNamespace>
+    <RootNamespace>Laboratorio_102</RootNamespace>
     <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
 
